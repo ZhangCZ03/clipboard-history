@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ZhangCZ03.github.io/lhc/sitemap.xml
+Sitemap: https://ZhangCZ03.github.io/clipboard-history/sitemap.xml
